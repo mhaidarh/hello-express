@@ -1,0 +1,21 @@
+{
+  "name": "hello-node-frontend",
+  "version": "1.0.0",
+  "description": "Hello Node Frontend",
+  "main": "index.js",
+  "dependencies": {
+    "animate.css": "3.5.2",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "node",
+    "frontend"
+  ],
+  "author": "M Haidar Hanif <npm@mhaidarhanif.com> (https://mhaidarhanif.com)",
+  "license": "MIT"
+}

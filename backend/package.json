@@ -1,0 +1,28 @@
+{
+  "name": "hello-node-backend",
+  "version": "1.0.0",
+  "description": "Hello Node Backend Application",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "2.1.0",
+    "request": "2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'HELLO NODE'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhaidarh/hello-node.git"
+  },
+  "keywords": [
+    "hello",
+    "node"
+  ],
+  "author": "M Haidar Hanif <npm@mhaidarhanif.com> (https://mhaidarhanif.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhaidarh/hello-node/issues"
+  },
+  "homepage": "https://github.com/mhaidarh/hello-node#readme"
+}
