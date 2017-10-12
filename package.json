@@ -4,7 +4,8 @@
   "description": "Hello Express app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'TEST'",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
